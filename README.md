@@ -10,14 +10,20 @@ In this project, Numerical information on persian passport has been recognized.
 
 ## second Step
 In the second step, we have to apply a threshold on the image.
+
+
 ![img](pics/Threshold_Image.jpg)
 
 ## Third Step
 After applying the threshold on the image, we have to crop the region of interest. 
+
+
 ![img](pics/imgout_Pass.jpg)
 
 ## Fourth Step
 The cropped image is then split into eight sub-images and then feeds the model for prediction.
+
+
 ![img](pics/Final_Result.jpg)
 
 ## Install requirements

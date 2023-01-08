@@ -18,7 +18,7 @@ After applying the threshold on the image, we have to crop the region of interes
 
 ## Fourth Step
 The cropped image is then split into eight sub-images and then feeds the model for prediction.
-![img]([Final_Result.jpg](https://github.com/Sheikhfathollahi/Passport-Reader/blob/main/pics/Final_Result.jpg))
+![img](pics/Final_Result.jpg)
 
 ## Install requirements
 

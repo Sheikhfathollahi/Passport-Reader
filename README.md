@@ -6,6 +6,8 @@ In this project, Numerical information on persian passport has been recognized.
 ![img](pics/Me.jpg)
 ## First Step
  The first step after loading the image is to remove heavy shadows.
+ 
+ 
 ![img](pics/image_Homo.jpg)
 
 ## second Step

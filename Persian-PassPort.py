@@ -191,6 +191,6 @@ class PassportInfo():
         self.segment_front()
         self.classify_front()
 
-#
-p1 = PassportInfo()
-p1.load_Passport_file("Me.jpg")
+if __name__ == '__main__':
+    p1 = PassportInfo()
+    p1.load_Passport_file("Me.jpg")

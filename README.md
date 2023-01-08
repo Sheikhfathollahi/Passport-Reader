@@ -1,6 +1,6 @@
 # Passport-Number Reader
-Optical Character Recognition/Reader (OCR) is the mechanical conversion of images of typed, handwritten or printed text into machine-encoded text, whether from a scanned document, a photo of a document, a scene-photo.
-In this project a Numerical information of persian passport has been recognized.
+Optical Character Recognition/Reader (OCR) is the mechanical conversion of images of typed, handwritten, or printed text into machine-encoded text, whether from a scanned document, a photo of a document, or a scene photo.
+In this project, Numerical information on persian passport has been recognized.
 
 ![img](Me.jpg)
 
@@ -9,15 +9,15 @@ In this project a Numerical information of persian passport has been recognized.
 ![img](image_Homo.jpg)
 
 ## second Step
-In the second step we have to apply threshold on image.
+In the second step, we have to apply a threshold on the image.
 ![img](Threshold_Image.jpg)
 
 ## Third Step
-After applying threshold on image, we have to crop the rigon of interest. 
+After applying the threshold on the image, we have to crop the region of interest. 
 ![img](imgout_Pass.jpg)
 
 ## Fourth Step
-The cropped image then splited into eight sub-images and then feed the model for prediction.
+The cropped image is then split into eight sub-images and then feeds the model for prediction.
 ![img](Final_Result.jpg)
 
 ## Install requirements

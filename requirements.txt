@@ -1,6 +1,6 @@
 opencv-python==4.6.0.66
 imutils==0.5.4
 keras==2.10.0
-tensorflow==2.10.0
 numpy==1.19.5
+tensorflow
 
